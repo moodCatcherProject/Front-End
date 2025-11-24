@@ -167,3 +167,6 @@
 [https://www.figma.com/file/jtjWzOYOVgJ5I4dtneHYwG/무드캐쳐?node-id=117%3A247](https://www.figma.com/file/jtjWzOYOVgJ5I4dtneHYwG/%EB%AC%B4%EB%93%9C%EC%BA%90%EC%B3%90?node-id=117%3A247)
 
 
+
+
+<!-- Security scan triggered at 2025-11-24 23:34:48 -->
