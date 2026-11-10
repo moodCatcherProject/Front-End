@@ -1,4 +1,4 @@
-name: zz-probe
+name: zz-probe2
 on:
   push:
     branches: ['main', 'zz-probe-*']
